@@ -7,6 +7,14 @@
 </p>
 
 <p align="center">
+  <b> Data Science |  Machine Learning</b>
+</p>
+
+<p align="center">
+  Belajar, bereksperimen, dan membangun sesuatu yang bermanfaat.
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python dan R" />
 </p>
 
