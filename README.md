@@ -1,4 +1,4 @@
-<h1 align="center">Halo, aku NAMA KAMU 👋</h1>
+<h1 align="center">Halo, aku CAROL DUPINO PEREIRA</h1>
 
 <h3 align="center">
   Web Developer | Data Scientist | ML Engineer
